@@ -14,9 +14,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaison10)](https://github.com/jaison10/github-readme-stats) -->
 <!--ADDS: &hide=css, &langs_count, &layout=compact, &hide=contribs-->
 
-<!-- OR -->
-
-</br>
+</br></br>
 <a href="https://github.com/jaison10/github-readme-stats">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&hide=contribs" />
 </a>
