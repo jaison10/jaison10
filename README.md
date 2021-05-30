@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### I'm <a href="https://jaison10.github.io" target="_blank">Jaison DSouza B</a>, a JavaScript enthusiast, willing to work in a challenging environment to utilize for the growth of the industry, while growing individually.
 
 #### Reach me at
