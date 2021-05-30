@@ -1,8 +1,10 @@
 ### Hi there 👋
-#### I'm (style=Color=red)Jaison DSouza B, a JavaScript enthusiast, willing to work in a challenging environment to utilize for the growth of the industry, while growing individually.
+#### I'm Jaison DSouza B, a JavaScript enthusiast, willing to work in a challenging environment to utilize for the growth of the industry, while growing individually.
 
 #### Reach me at
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.jaixon._)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!-- **jaison10/jaison10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
