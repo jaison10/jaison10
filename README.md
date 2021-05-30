@@ -7,7 +7,7 @@
 <!-- This is data/stats -->
 <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jaison10&show_icons=true&&theme=dark&show_border=true&&count_private=true&include_all_commits=true" /> -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&langs_count=5)]()
 [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&&show_border=true&&count_private=true&&include_all_commits=true)]()
 
 <!--START_SECTION:waka-->
