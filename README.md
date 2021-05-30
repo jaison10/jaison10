@@ -23,11 +23,10 @@
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&&show_border=true&&count_private=true&&include_all_commits=true&layout=compact" />
 </a>
 
-
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 
-</br>
+</br></br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaison10.visitor-badge)
 
