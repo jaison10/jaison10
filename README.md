@@ -12,6 +12,14 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaison10)](https://github.com/jaison10/github-readme-stats)
 <!-- &hide=css, &langs_count, &layout=compact -->
 
+<a href="https://github.com/jaison10/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaison10&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/jaison10/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaison10&repo=convoychat" />
+</a>
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
