@@ -5,11 +5,10 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.jaixon._)
 
 <!-- This is data/stats -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jaison10&show_icons=true&&theme=dark&show_border=true&&count_private=true&include_all_commits=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&&show_border=true&&count_private=true&&include_all_commits=true"/>
+<!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jaison10&show_icons=true&&theme=dark&show_border=true&&count_private=true&include_all_commits=true" /> -->
 
-<!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&langs_count=5)]()
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&&show_border=true&&count_private=true&&include_all_commits=true)]() -->
+[![My Stats](https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&langs_count=5)]()
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&&show_border=true&&count_private=true&&include_all_commits=true&langs_count=3)]()
 <!-- hide=css,  -->
 
 <!--START_SECTION:waka-->
