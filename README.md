@@ -1,7 +1,9 @@
 ### Hi there 👋
-#### I'm Jaison DSouza B, a JavaScript enthusiast, willing to work in a challenging environment to utilize for the growth of the industry, while growing individually.
+#### I'm <a href="https://jaison10.github.io" target="_blank">Jaison DSouza B</a>, a JavaScript enthusiast, willing to work in a challenging environment to utilize for the growth of the industry, while growing individually.
 
 #### Reach me at
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaison-dsouza-b-81835314b/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jaison10.github.io)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.jaixon._)
 
 
@@ -10,6 +12,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaison10)](https://github.com/jaison10/github-readme-stats) -->
 <!--ADDS: &hide=css, &langs_count, &layout=compact, &hide=contribs-->
 
+📈 **My GitHub Stats:**
 <a href="https://github.com/jaison10/github-readme-stats">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&hide=contribs" />
 </a>
@@ -21,7 +24,7 @@
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 
-
+<br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaison10.visitor-badge)
 
 <!-- **jaison10/jaison10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
