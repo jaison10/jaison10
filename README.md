@@ -13,7 +13,7 @@
 <!-- &hide=css, &langs_count, &layout=compact -->
 
 <a href="https://github.com/jaison10/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&card_width=70em" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&card_width=70" />
 </a>
 <a href="https://github.com/jaison10/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&&show_border=true&&count_private=true&&include_all_commits=true&layout=compact" />
