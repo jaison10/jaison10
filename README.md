@@ -8,6 +8,9 @@
 <!-- ![Issues](https://visitor-badge.glitch.me/badge?page_id=jaison10.visitor-badge.issue.1) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaison10&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- **jaison10/jaison10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
