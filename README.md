@@ -13,10 +13,10 @@
 <!-- &hide=css, &langs_count, &layout=compact, &hide=contribs-->
 
 <a href="https://github.com/jaison10/github-readme-stats">
-  <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&hide=contribs" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&hide=contribs" />
 </a>
 <a href="https://github.com/jaison10/convoychat">
-  <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&&show_border=true&&count_private=true&&include_all_commits=true&layout=compact" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&&show_border=true&&count_private=true&&include_all_commits=true&layout=compact" />
 </a>
 
 
