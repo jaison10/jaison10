@@ -13,7 +13,7 @@
 <!--ADDS: &hide=css, &langs_count, &layout=compact, &hide=contribs-->
 
 📈 **My GitHub Stats:**
-</br>
+</br></br>
 <a href="https://github.com/jaison10/github-readme-stats">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&hide=contribs" />
 </a>
@@ -26,6 +26,7 @@
 <!-- END_SECTION:waka -->
 
 </br>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaison10.visitor-badge)
 
 <!-- **jaison10/jaison10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
