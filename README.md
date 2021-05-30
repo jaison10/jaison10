@@ -5,7 +5,7 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.jaixon._)
 
 <!-- This is data/stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaison10&show_icons=true&&theme=blue-green&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaison10&show_icons=true&&theme=blue-green&show_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
