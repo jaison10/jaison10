@@ -9,6 +9,7 @@
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=jaison10&theme=dark&&show_icons=true&&count_private=true&include_all_commits=true&langs_count=5)]()
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&&show_border=true&&count_private=true&&include_all_commits=true)]()
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaison10)](https://github.com/jaison10/github-readme-stats)
 <!-- &hide=css, &langs_count, &layout=compact -->
 
 <!--START_SECTION:waka-->
