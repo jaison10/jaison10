@@ -1,13 +1,17 @@
 ### Hi there 👋
-#### I'm Jaison DSouza B, a JavaScript enthusiast, willing to work in a challenging environment to utilize for the growth of the industry, while growing individuallyyy.
+#### I'm Jaison DSouza B, a JavaScript enthusiast, willing to work in a challenging environment to utilize for the growth of the industry, while growing individually.
 
 #### Reach me at
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.jaixon._)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaison10&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!-- This is data/stats -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaison10&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=jaison10&theme=blue-green)]()
+[![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=blue-green)]()
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaison10.visitor-badge)
 
