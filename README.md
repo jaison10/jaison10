@@ -4,7 +4,7 @@
 #### Reach me at
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.jaixon._)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.jaison10}.${your.repo.id})
 
 <!-- **jaison10/jaison10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
