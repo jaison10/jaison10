@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Jaison DSouza B, a JavaScript enthusiast. 
+#### I'm Jaison DSouza B, a JavaScript enthusiast, willing to work in a challenging environment to utilise for the growth of the industry, while growing individually.
 
 <!-- **jaison10/jaison10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
