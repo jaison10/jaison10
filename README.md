@@ -28,12 +28,22 @@
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&show_border=true&&count_private=true&include_all_commits=true&layout=compact" />
 </a>
 
+ -->
+
+
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
+
+
+<!--
+------------Uncomment when stats is better!
+
 
 &nbsp;
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaison10.visitor-badge)
+
+-->
 
 <!-- **jaison10/jaison10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,6 +57,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- -->
-
  -->
