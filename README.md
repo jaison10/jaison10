@@ -13,6 +13,11 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaison10)](https://github.com/jaison10/github-readme-stats) -->
 <!--ADDS: &hide=css, &langs_count, &layout=compact, &hide=contribs-->
 
+
+<!--
+------------Uncomment when stats is better!
+
+
 📈 **My GitHub Stats:**
 </br>
 
@@ -42,4 +47,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ -->
+
  -->
