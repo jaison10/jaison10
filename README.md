@@ -14,8 +14,6 @@
 <!--ADDS: &hide=css, &langs_count, &layout=compact, &hide=contribs-->
 
 
-<!--
-------------Uncomment when stats is better!
 
 
 📈 **My GitHub Stats:**
@@ -28,7 +26,7 @@
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&theme=dark&show_icons=true&show_border=true&&count_private=true&include_all_commits=true&layout=compact" />
 </a>
 
- -->
+ 
 
 
 <!-- START_SECTION:waka -->
