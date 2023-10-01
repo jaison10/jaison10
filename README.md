@@ -1,5 +1,4 @@
-<!-- ### Hi there 👋 -->
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there 👋 -->
 #### I'm Jaison DSouza B, a passionate software engineer and cyber security enthusiast, willing to work in a challenging environment to utilize my skills for the growth of the industry while growing individually.
 
 #### Reach me at
