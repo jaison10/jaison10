@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### I'm <a href="https://jaison10.github.io" target="_blank">Jaison DSouza B</a>, a JavaScript enthusiast, willing to work in a challenging environment to utilize my skills for the growth of the industry, while growing individually.
+#### I'm <a href="https://jaison10.github.io" target="_blank">Jaison DSouza B</a>, a passionate software engineer and cyber security enthusiast, willing to work in a challenging environment to utilize my skills for the growth of the industry while growing individually.
 
 #### Reach me at
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaison-dsouza-b-81835314b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaison10/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jaison10.github.io)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.jaixon._)
 
