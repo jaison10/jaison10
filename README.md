@@ -9,7 +9,7 @@ I'm Jaison DSouza B, a passionate software engineer and cyber security enthusias
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://instagram.com/_.jaixon._">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
