@@ -30,8 +30,11 @@ I'm Jaison DSouza B, a passionate software engineer and cyber security enthusias
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
 </div>
 
+<!--
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&layout=compact&theme=vision-friendly-dark)](https://github.com/jaison10/github-readme-stats)
+
+-->
 
 - 🔭 I’m currently working on C#, ASP.Net Core, JS/TS, NodeJS, and Angular
 - 🌱 I’m currently learning Rust and Cyber Security
