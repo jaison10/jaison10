@@ -36,5 +36,8 @@ I'm Jaison DSouza B, a passionate software engineer and project/man management e
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaison10&theme=github_dark)
 
+### : Top Languages :
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaison10&theme=github_dark)
+
 - 🔭 I’m currently working on C#, ASP.Net Core, JS/TS, NodeJS, and Angular
 - 🌱 I’m currently learning Rust and Cyber Security
