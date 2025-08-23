@@ -32,10 +32,9 @@ I'm Jaison DSouza B, a passionate software engineer and project/man management e
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" **alt="Git" width="30" height="30"/>
 </div>
 </br>
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&layout=compact&theme=vision-friendly-dark)](https://github.com/jaison10/github-readme-stats)
 
--->
+### :fire: My Stats :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaison10&layout=compact&theme=vision-friendly-dark)](https://github.com/jaison10/github-readme-stats)
 
 </br>
 
