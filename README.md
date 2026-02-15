@@ -30,11 +30,12 @@ I'm Jaison DSouza B, a passionate software engineer and project/man management e
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Git" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" **alt="Git" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-plain.svg" title="Swagger" **alt="Git" width="30" height="30"/>
 </div>
 </br>
 
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaison10&theme=github_dark) 
 
-- 🔭 I’m currently working on C#, ASP.Net Core, JS/TS, NodeJS, and Angular
+- 🔭 I’m currently working on C#, ASP.NET Core, JS/TS, NodeJS, and Angular
 - 🌱 I’m currently learning Rust and Cyber Security
