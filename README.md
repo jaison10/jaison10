@@ -30,7 +30,8 @@ I'm Jaison DSouza B, a passionate software engineer and project/man management e
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Git" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" **alt="Git" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-plain.svg" title="Swagger" **alt="Git" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-plain.svg" title="OAuth" **alt="OAuth" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" title="Tailwind CSS" **alt="Tailwind" width="30" height="30"/>
 </div>
 </br>
 
