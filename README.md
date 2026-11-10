@@ -1,12 +1,8 @@
-Hi there 👋
+Hi there 👋 Jaison here!
 </br>
-I'm Jaison DSouza B, a passionate software engineer and project/man management enthusiast, willing to work in a challenging environment to utilize my skills for the growth of the industry while growing individually.
 <div id="badges">
   <a href="https://www.linkedin.com/in/jaison10">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/_.jaixon._">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=Pink" alt="Instagram Badge"/>
   </a>
 </div>
 
