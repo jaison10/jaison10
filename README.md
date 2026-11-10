@@ -1,4 +1,4 @@
-Hi there 👋 Jaison here!
+Hi there 👋 Jaison here! I work on .Net, Angular, Azure. 
 </br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/jaison10">
