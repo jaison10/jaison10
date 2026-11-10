@@ -31,6 +31,3 @@ Hi there 👋 Jaison here!
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" title="Tailwind CSS" **alt="Tailwind" width="30" height="30"/>
 </div>
 </br>
-
-- 🔭 I’m currently working on C#, ASP.NET Core, JS/TS, NodeJS, and Angular
-- 🌱 I’m currently learning Rust and Cyber Security
